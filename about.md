@@ -14,5 +14,5 @@
 - Python za data engineering 
 - Rad sa bazama podataka, a da nisu u eksel tabeli :D
 - Databricks
-
-
+- Apache spakr
+- PySpark
