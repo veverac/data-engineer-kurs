@@ -16,4 +16,5 @@ Tokom Data Engineering kursa očekujem da obradim sledeće teme:
 - Napredno korišćenje Pythona i SQL-a za obradu i analizu podataka.
 - Projektovanje i automatizaciju ETL/ELT procesa.
 - Rad sa velikim skupovima podataka korišćenjem Apache Spark-a i Databricks-a.
-
+- Učenje rada sa Git-om i GitHub-om.
+- Upoznavanje sa alatima za obradu i čuvanje podataka.
