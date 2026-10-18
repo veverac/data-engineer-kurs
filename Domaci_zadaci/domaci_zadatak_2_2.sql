@@ -30,7 +30,7 @@ AND DAY(kickoff_ts) BETWEEN 1 AND 15;
 
 -- 5. Prebrojte utakmice odigrane petkom. Prikažite datum i dan u nedelji za svaku od njih.
 
-SELECT  DATE(kickoff_ts) AS datum, DAYOFWEEK(kickoff_ts) AS dan
+SELECT  DATE(kickoff_ts) AS datum, DATE_FORMAT(kickoff_ts, 'EEEE') AS dan_u_nedelji
 FROM matches_flat
 WHERE DAYOFWEEK(kickoff_ts) = 6;
 
