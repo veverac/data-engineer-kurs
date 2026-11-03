@@ -6,6 +6,8 @@ Struktura repozitoruijuma će se osvažavati svakodnevno, a prema tome i ovaj fa
 ## U okviru repozitorijuma dodati su folderi:
     1. Vežbe
     2. Domaći zadaci
+        - SQL
+        - Python
     3. Projekti
     4. ...
 
